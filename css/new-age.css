@@ -303,7 +303,7 @@ footer {
     background-color: #F09C8A; }
 
 .btn {
-  border-radius: 300px;
+  border-radius: 10px;
   font-family: 'Lato', 'Helvetica', 'Arial', 'sans-serif';
   letter-spacing: 2px;
   text-transform: uppercase; }
